@@ -19,15 +19,15 @@ avatar: https://avatars1.githubusercontent.com/u/10226621?v=3&s=460
 footer-links:
   dribbble:
   email:
-  #facebook:benjamin.balzer.92
+  facebook: benjamin.balzer.92
   flickr:
-  #github: Benjamin-R-Balzer
+  github: Benjamin-R-Balzer
   instagram:
-  #linkedin:benjamin-balzer-b7449310
+  linkedin: benjamin-balzer-b7449310
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: 
-  #stackoverflow:users/5831343/benjamin-balzer
+  stackoverflow: users/5831343/benjamin-balzer
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
@@ -37,11 +37,11 @@ footer-links:
 disqus:
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics:UA-73055799-1
+google_analytics: UA-73055799-1
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url:Benjamin-R-Balzer.github.io
+url: Benjamin-R-Balzer.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
